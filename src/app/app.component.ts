@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'appPluralDebora';
+  pageTitle = 'Acme Store Colombia';
+  owner = 'Sergio Turizo'
+ 
 }
